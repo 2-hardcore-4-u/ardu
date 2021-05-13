@@ -1,0 +1,6 @@
+D:\немного мусора\ardu\bin\Debug\ardu.exe.config
+D:\немного мусора\ardu\bin\Debug\ardu.exe
+D:\немного мусора\ardu\bin\Debug\ardu.pdb
+D:\немного мусора\ardu\obj\Debug\ardu.csprojAssemblyReference.cache
+D:\немного мусора\ardu\obj\Debug\ardu.exe
+D:\немного мусора\ardu\obj\Debug\ardu.pdb

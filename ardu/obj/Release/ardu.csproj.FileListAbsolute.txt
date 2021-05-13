@@ -1,0 +1,5 @@
+D:\немного мусора\ardu\bin\Release\ardu.exe.config
+D:\немного мусора\ardu\bin\Release\ardu.exe
+D:\немного мусора\ardu\bin\Release\ardu.pdb
+D:\немного мусора\ardu\obj\Release\ardu.exe
+D:\немного мусора\ardu\obj\Release\ardu.pdb
