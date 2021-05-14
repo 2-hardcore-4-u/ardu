@@ -10,8 +10,8 @@ namespace Program
         {
             _serialPort = new SerialPort();
             _serialPort.BaudRate = 9600;
-            Console.WriteLine("Вкажіть номер порту підключення: ");
-            _serialPort.PortName = "COM" + Console.ReadLine().ToString();
+            Console.WriteLine("Вкажіть порт підключення: ");
+            _serialPort.PortName =  + Console.ReadLine().ToString();
             _serialPort.Open();
             while (true)
             {
