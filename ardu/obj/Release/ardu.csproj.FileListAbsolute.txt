@@ -3,3 +3,9 @@ D:\немного мусора\ardu\bin\Release\ardu.exe
 D:\немного мусора\ardu\bin\Release\ardu.pdb
 D:\немного мусора\ardu\obj\Release\ardu.exe
 D:\немного мусора\ardu\obj\Release\ardu.pdb
+C:\Users\admin\Desktop\ardu\ardu\obj\Release\ardu.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ardu\ardu\obj\Release\ardu.exe
+C:\Users\admin\Desktop\ardu\ardu\obj\Release\ardu.pdb
+C:\Users\admin\Desktop\ardu\ardu\bin\Release\ardu.exe.config
+C:\Users\admin\Desktop\ardu\ardu\bin\Release\ardu.exe
+C:\Users\admin\Desktop\ardu\ardu\bin\Release\ardu.pdb
